@@ -16,4 +16,6 @@ int main ()
     }
     cout<<endl;
   }
+  cout<<"This is how you print theses patterns.";
 }
+
